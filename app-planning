@@ -1,0 +1,16 @@
+User can see a list of hotels
+User can book a hotel
+User can book a spa day
+User adds a credit card
+User secures credit card with password
+User receives a hotel reservation
+User receives a spa ticket
+
+Classes:
+User
+Hotel
+Spa
+Reservation
+SpaReservation
+CreditCard
+SecureCreditCard
